@@ -1,0 +1,34 @@
+body {
+    margin: 0%;
+}
+
+div {
+    padding: 20px;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+input {
+    width: 300px;
+    min-width: 100px;
+    padding: 10x;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+input:focus {
+    outline: none;
+    color: white;
+    background-color: rgba(70, 131, 18, 0.35);
+}
+
+button {
+    background-color: rgb(175, 142, 243);
+    margin:20px;
+    width: 100px;
+    height: 35px;
+    border: none;
+}
